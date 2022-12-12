@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build-ghpages": "vite build --base=https://giacomof5.github.io/VUE-APP-Vite/",
     "preview": "vite preview",
     "test:unit": "vitest --environment jsdom"
   },
