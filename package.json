@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build-ghpages": "vite build --base=/",
+    "build-ghpages": "vite build --base=/VUE-APP-Vite/",
     "preview": "vite preview",
     "test:unit": "vitest --environment jsdom"
   },
